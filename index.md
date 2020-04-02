@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Current Affiliation
 
-You can use the [editor on GitHub](https://github.com/shirokunet/shirokunet.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### ARAV株式会社
+- 代表取締役: 白久 レイエス樹
+- 場所:
+  - 113-0033 東京都文京区本郷7-3-1
+  - 東京大学南研究棟アントレプレナーラボ
+- 他: [FoundX](https://foundx.jp/) Founders Program 2020/Q2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## SNS
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shirokunet/shirokunet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [GitHub](https://github.com/shirokunet)
+- [Twitter](https://twitter.com/shirokunet)
+- [Facebook](https://www.facebook.com/reyestatsuru.shiroku)
+- [LinkedIn](https://www.linkedin.com/in/shiroku/)
+- [YouTube](https://www.youtube.com/channel/UCc1rEGQQlM4CgUvPYyYbIyw)
+- [Blog (shiroku.net)](https://shiroku.net/)
