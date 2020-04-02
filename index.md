@@ -1,7 +1,6 @@
 ## Current Affiliation
 
 ### ARAV株式会社
-
 | | |
 |:---|:---|
 |登記|2020年4月1日|
