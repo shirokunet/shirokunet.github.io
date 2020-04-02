@@ -13,7 +13,7 @@
 - Facebook ... [https://www.facebook.com/reyestatsuru.shiroku](https://www.facebook.com/reyestatsuru.shiroku)
 - LinkedIn ... [https://www.linkedin.com/in/shiroku/](https://www.linkedin.com/in/shiroku/)
 - YouTube ... [https://www.youtube.com/channel/UCc1rEGQQlM4CgUvPYyYbIyw](https://www.youtube.com/channel/UCc1rEGQQlM4CgUvPYyYbIyw)
-- Blog (shiroku.net)...[https://shiroku.net/](https://shiroku.net/)
+- Blog (shiroku.net) ... [https://shiroku.net/](https://shiroku.net/)
 
 ## Contact
 
