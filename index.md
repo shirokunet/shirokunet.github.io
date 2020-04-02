@@ -18,4 +18,4 @@
 
 ## Contact
 
-![text2image_info](https://user-images.githubusercontent.com/36523448/78218566-f6d3ab80-74f8-11ea-9605-184c54b05cd3.png)
+![text2image_info](https://user-images.githubusercontent.com/36523448/78219293-2fc05000-74fa-11ea-916c-9e7fe8a174d7.png)
