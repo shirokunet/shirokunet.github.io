@@ -13,6 +13,10 @@
 
 <br>
 
+## Contact
+
+![text2image_info](https://user-images.githubusercontent.com/36523448/78219293-2fc05000-74fa-11ea-916c-9e7fe8a174d7.png)
+
 ## SNS
 
 - [GitHub](https://github.com/shirokunet)
@@ -21,7 +25,3 @@
 - [LinkedIn](https://www.linkedin.com/in/shiroku/)
 - [YouTube](https://www.youtube.com/channel/UCc1rEGQQlM4CgUvPYyYbIyw)
 - [Blog (shiroku.net)](https://shiroku.net/)
-
-## Contact
-
-![text2image_info](https://user-images.githubusercontent.com/36523448/78219293-2fc05000-74fa-11ea-916c-9e7fe8a174d7.png)
