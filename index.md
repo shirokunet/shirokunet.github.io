@@ -11,6 +11,8 @@
 |住所1|113-0033 東京都文京区本郷5-23-13<br>タムラビルB1F FoundX|
 |代表取締役|白久 レイエス樹|
 
+<br>
+
 ## SNS
 
 - [GitHub](https://github.com/shirokunet)
