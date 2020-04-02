@@ -6,10 +6,6 @@
 - Yanbaru Robotics Inc. (米国) は2020年4月1日からARAV株式会社になりました。会社名はアラヴと読みます。
 - 2020年4月1日現在は新型コロナの影響によるリモートワーク推奨中のため出社していない日が多いです。 
 
-## Contact
-
-![text2image_info](https://user-images.githubusercontent.com/36523448/78219293-2fc05000-74fa-11ea-916c-9e7fe8a174d7.png)
-
 ## SNS
 
 - GitHub ... [https://github.com/shirokunet](https://github.com/shirokunet)
@@ -18,3 +14,7 @@
 - LinkedIn ... [https://www.linkedin.com/in/shiroku/](https://www.linkedin.com/in/shiroku/)
 - YouTube ... [https://www.youtube.com/channel/UCc1rEGQQlM4CgUvPYyYbIyw](https://www.youtube.com/channel/UCc1rEGQQlM4CgUvPYyYbIyw)
 - Blog (shiroku.net)...[https://shiroku.net/](https://shiroku.net/)
+
+## Contact
+
+![text2image_info](https://user-images.githubusercontent.com/36523448/78219293-2fc05000-74fa-11ea-916c-9e7fe8a174d7.png)
