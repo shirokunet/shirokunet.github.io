@@ -15,3 +15,7 @@
 - [LinkedIn](https://www.linkedin.com/in/shiroku/)
 - [YouTube](https://www.youtube.com/channel/UCc1rEGQQlM4CgUvPYyYbIyw)
 - [Blog (shiroku.net)](https://shiroku.net/)
+
+## Contact
+
+![text2image_info](https://user-images.githubusercontent.com/36523448/78218566-f6d3ab80-74f8-11ea-9605-184c54b05cd3.png)
