@@ -1,7 +1,7 @@
 ## Affiliation
 
 ### ARAV Inc. 
-[https://arav.jp/](https://arav.jp/)
+[https://arav.jp/](https://shirokunet.github.io/arav.jp.github.io/)
 
 - 2020/04 ~
 - 2019年後半に建機自動化にピボットしたため、ARAV株式会社がメインの所属になります。（会社名はアラヴと読みます。）
