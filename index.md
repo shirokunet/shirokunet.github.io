@@ -3,9 +3,9 @@
 ### ARAV Inc. 
 [https://arav.jp/](https://arav.jp/)
 
-- 2020/04 ~
+- 2020/04/01 ~
 - 2019年後半に建機自動化にピボットしたため、ARAV株式会社がメインの所属になります。（会社名はアラヴと読みます。）
-- 4月1日現在は新型コロナの影響によるリモートワーク推奨中のため出社していない日が多いです。 
+- 4月18日現在は新型コロナの影響によるリモートワーク推奨中のため出社していない日が多いです。 
 
 ### Yanbaru Robotics Inc.
 [https://yanbaru-robotics.com/](https://yanbaru-robotics.com/)
