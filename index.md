@@ -1,7 +1,7 @@
 ## About shirokunet
-白久 レイエス樹
-ReyesTatsuru Shiroku
-75%🇵🇭 + 25%🇯🇵
+- 白久 レイエス樹
+- ReyesTatsuru Shiroku
+- 75%🇵🇭 + 25%🇯🇵
 
 ## Affiliation
 
