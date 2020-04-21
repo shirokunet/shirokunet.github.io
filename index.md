@@ -1,3 +1,8 @@
+## About shirokunet
+白久 レイエス樹
+ReyesTatsuru Shiroku
+75%🇵🇭 + 25%🇯🇵
+
 ## Affiliation
 
 ### ARAV Inc. 
@@ -25,5 +30,3 @@
 ## Contact
 
 ![text2image_info](https://user-images.githubusercontent.com/36523448/78219293-2fc05000-74fa-11ea-916c-9e7fe8a174d7.png)
-
-75%🇵🇭 + 25%🇯🇵
