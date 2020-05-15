@@ -24,7 +24,7 @@
 - Twitter ... [https://twitter.com/shirokunet](https://twitter.com/shirokunet)
 - Facebook ... [https://www.facebook.com/reyestatsuru.shiroku](https://www.facebook.com/reyestatsuru.shiroku)
 - LinkedIn ... [https://www.linkedin.com/in/shiroku/](https://www.linkedin.com/in/shiroku/)
-- YouTube ... [https://www.youtube.com/channel/UCc1rEGQQlM4CgUvPYyYbIyw](https://www.youtube.com/channel/UCc1rEGQQlM4CgUvPYyYbIyw)
+- YouTube ... [https://www.youtube.com/shirokunet](https://www.youtube.com/channel/UCc1rEGQQlM4CgUvPYyYbIyw)
 - Blog (shiroku.net) ... [https://shiroku.net/](https://shiroku.net/)
 
 ## Contact
