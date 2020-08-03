@@ -16,7 +16,7 @@
 ### Yanbaru Robotics Inc.
 [https://yanbaru-robotics.com/](https://yanbaru-robotics.com/)
 
-- 2018/07 ~
+- 2018/07 ~ 2020/06
 - 米国のトラック自動運転スタートアップ。
 
 ## SNS
